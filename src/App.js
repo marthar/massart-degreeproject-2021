@@ -178,7 +178,7 @@ function App() {
 
   useEffect(() => { 
     Tabletop.init( {
-      key: 'https://docs.google.com/spreadsheets/d/1lzAodBh1ohPURnCNYbx-CgA00TEzRFi4G4qE7_Z3UX0/edit?usp=sharing',
+      key: "https://docs.google.com/spreadsheets/d/1BRaT-3UymVViqEQIJq3_YN9AZewRiYrvx3WxDaIJTzs/edit?usp=sharing",
       simpleSheet: true }
     ).then(function(data, tabletop) { 
       dispatch({ type: "ENTRIES", entries: processEntries(data) })
