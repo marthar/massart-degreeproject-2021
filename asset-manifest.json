@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/massart-degreeproject/static/css/main.07265319.chunk.css",
+    "main.js": "/massart-degreeproject/static/js/main.16a52af7.chunk.js",
+    "main.js.map": "/massart-degreeproject/static/js/main.16a52af7.chunk.js.map",
+    "runtime-main.js": "/massart-degreeproject/static/js/runtime-main.6f31538b.js",
+    "runtime-main.js.map": "/massart-degreeproject/static/js/runtime-main.6f31538b.js.map",
+    "static/js/2.39c6b036.chunk.js": "/massart-degreeproject/static/js/2.39c6b036.chunk.js",
+    "static/js/2.39c6b036.chunk.js.map": "/massart-degreeproject/static/js/2.39c6b036.chunk.js.map",
+    "index.html": "/massart-degreeproject/index.html",
+    "precache-manifest.79e31226a9d05bdd8d70f1fc95dcc905.js": "/massart-degreeproject/precache-manifest.79e31226a9d05bdd8d70f1fc95dcc905.js",
+    "service-worker.js": "/massart-degreeproject/service-worker.js",
+    "static/css/main.07265319.chunk.css.map": "/massart-degreeproject/static/css/main.07265319.chunk.css.map",
+    "static/js/2.39c6b036.chunk.js.LICENSE.txt": "/massart-degreeproject/static/js/2.39c6b036.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f31538b.js",
+    "static/js/2.39c6b036.chunk.js",
+    "static/css/main.07265319.chunk.css",
+    "static/js/main.16a52af7.chunk.js"
+  ]
+}
