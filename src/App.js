@@ -100,7 +100,7 @@ function GalleryDetail({entries}) {
 
   return <React.Fragment>
          <header>
-        <Link to="/"> <h3 className="back"><div>&laquo;</div> Online Symposium May 12th 2020</h3></Link>
+        <Link to="/"> <h3 className="back"><div>&laquo;</div> Online Symposium April 27th 2021</h3></Link>
         <h1>{entry.title}</h1>
         <h2>{entry.name}</h2>
         </header>
@@ -192,7 +192,7 @@ function App() {
     <Switch>
           <Route exact path="/">
             <header>
-              <h3>Online Symposium May 12th 2020</h3>
+              <h3>Online Symposium April 27th 2021</h3>
               <h1>Degree Project <br/>Symposium</h1>
               <h2>MassArt Communication Design</h2>  
               <section id='search'>
@@ -215,7 +215,7 @@ function App() {
           <Route path="/:id" children={<GalleryDetail entries={entries} />} />
         </Switch>
       <footer>
-        <h3><img src="./light-logo.png" />621 Huntington Avenue, Boston, MA, 02115 | 617.879.7000 | &copy; 2020  | <a href="mailto:merettig@massart.edu?Subject=Degree%20Symposium" target="_top"> Contact Us</a></h3>
+        <h3><img src="./light-logo.png" />621 Huntington Avenue, Boston, MA, 02115 | 617.879.7000 | &copy; 2021  | <a href="mailto:merettig@massart.edu?Subject=Degree%20Symposium" target="_top"> Contact Us</a></h3>
       </footer>
      </div>
     </Router>
