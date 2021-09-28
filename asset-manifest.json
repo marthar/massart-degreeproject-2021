@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/massart-degreeproject-2021/static/css/main.07265319.chunk.css",
-    "main.js": "/massart-degreeproject-2021/static/js/main.c3ad4f23.chunk.js",
-    "main.js.map": "/massart-degreeproject-2021/static/js/main.c3ad4f23.chunk.js.map",
+    "main.js": "/massart-degreeproject-2021/static/js/main.2046907d.chunk.js",
+    "main.js.map": "/massart-degreeproject-2021/static/js/main.2046907d.chunk.js.map",
     "runtime-main.js": "/massart-degreeproject-2021/static/js/runtime-main.a8fd9221.js",
     "runtime-main.js.map": "/massart-degreeproject-2021/static/js/runtime-main.a8fd9221.js.map",
-    "static/js/2.b70cfc5c.chunk.js": "/massart-degreeproject-2021/static/js/2.b70cfc5c.chunk.js",
-    "static/js/2.b70cfc5c.chunk.js.map": "/massart-degreeproject-2021/static/js/2.b70cfc5c.chunk.js.map",
+    "static/js/2.53b451b8.chunk.js": "/massart-degreeproject-2021/static/js/2.53b451b8.chunk.js",
+    "static/js/2.53b451b8.chunk.js.map": "/massart-degreeproject-2021/static/js/2.53b451b8.chunk.js.map",
     "index.html": "/massart-degreeproject-2021/index.html",
-    "precache-manifest.d55cf731a32b65030c31098473f97feb.js": "/massart-degreeproject-2021/precache-manifest.d55cf731a32b65030c31098473f97feb.js",
+    "precache-manifest.8a7d0001b66070432fdafd2778746ce6.js": "/massart-degreeproject-2021/precache-manifest.8a7d0001b66070432fdafd2778746ce6.js",
     "service-worker.js": "/massart-degreeproject-2021/service-worker.js",
     "static/css/main.07265319.chunk.css.map": "/massart-degreeproject-2021/static/css/main.07265319.chunk.css.map",
-    "static/js/2.b70cfc5c.chunk.js.LICENSE.txt": "/massart-degreeproject-2021/static/js/2.b70cfc5c.chunk.js.LICENSE.txt"
+    "static/js/2.53b451b8.chunk.js.LICENSE.txt": "/massart-degreeproject-2021/static/js/2.53b451b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a8fd9221.js",
-    "static/js/2.b70cfc5c.chunk.js",
+    "static/js/2.53b451b8.chunk.js",
     "static/css/main.07265319.chunk.css",
-    "static/js/main.c3ad4f23.chunk.js"
+    "static/js/main.2046907d.chunk.js"
   ]
 }
