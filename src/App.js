@@ -5,6 +5,8 @@ import PropTypes from 'prop-types';
 
 import Tabletop from "tabletop"
 
+import Papa from "papaparse"
+
 import { map, keys, find, filter, sortBy, groupBy, uniqBy } from "lodash"
 
 import {
@@ -177,13 +179,10 @@ function App() {
 
 
   useEffect(() => { 
-    Tabletop.init( {
-      key: "https://docs.google.com/spreadsheets/d/1BRaT-3UymVViqEQIJq3_YN9AZewRiYrvx3WxDaIJTzs/edit?usp=sharing",
-      simpleSheet: true }
-    ).then(function(data, tabletop) { 
-      dispatch({ type: "ENTRIES", entries: processEntries(data) })
-   }) }, []);
-
+     Papa.parse("./data.csv", { download: true, header: true, complete: (results) => {
+      dispatch({ type: "ENTRIES", entries: processEntries(results.data)})
+     }})
+   }, []);
 
 
   return (
